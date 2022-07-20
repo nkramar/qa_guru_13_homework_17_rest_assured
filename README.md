@@ -9,7 +9,7 @@ take out all the checks that are duplicated from request to request.
 ```
 ##### Interface "Response"
 
-###### Here is the link to documentation:<a href="https://https://www.javadoc.io/doc/io.rest-assured/rest-assured/3.0.1/io/restassured/response/Response.html"> Response Interface </a>
+###### Here is the link to documentation:<a href="https://www.javadoc.io/doc/io.rest-assured/rest-assured/3.0.1/io/restassured/response/Response.html"> Response Interface </a>
 
 ```
 This interface was used to get values from the response and to work with data from json.
